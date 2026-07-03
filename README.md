@@ -1,10 +1,10 @@
 # skill-check
 
-Starter template for [ModelBound Skill Check](https://modelbound.co/connect/github-actions) in GitHub Actions.
+Starter template for [ModelBound Skill Check](https://modelbound.co/connect/github-actions?repo=ModelBound/skill-check) in GitHub Actions.
 
-[![ModelBound Skill Trust](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check)](https://modelbound.co/connect/github-actions)
-![Skill Lint](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check&metric=lint)
-![Optimize Savings](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check&metric=optimize)
+[![ModelBound Skill Trust](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check)](https://modelbound.co/connect/github-actions?repo=ModelBound/skill-check)
+[![Skill Lint](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check&metric=lint)](https://modelbound.co/connect/github-actions?repo=ModelBound/skill-check)
+[![Optimize Savings](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/skill-check&metric=optimize)](https://modelbound.co/connect/github-actions?repo=ModelBound/skill-check)
 
 ## Setup
 
